@@ -1,4 +1,14 @@
-### Hi there 👋
+
+Marcin Wrzask 👋
+
+I'm Marcin from Poland, I really enjoy learning languages and frameworks like Python, Tensorflow, FastAPI and so on... 
+I also enjoy solving a problem on codewars or leetcode platform. 
+
+## Skills and Experience
+* 🐍 Python
+* 🐋 Docker
+* 💻 FastAPI, 
+* ♾ CI/CD pipelines
 
 <!--
 **marwrzask/marwrzask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
